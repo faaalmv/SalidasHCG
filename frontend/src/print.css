@@ -1,0 +1,25 @@
+/* Este código solo se aplica al imprimir */
+@media print {
+
+  /* Oculta todos los botones y elementos interactivos */
+  button, .group-hover\:opacity-100 {
+    display: none !important;
+  }
+
+  /* Hace que los inputs parezcan texto normal, sin bordes */
+  input, textarea {
+    border: none !important;
+    background-color: transparent !important;
+    -webkit-appearance: none; /* Adicional para navegadores WebKit */
+    -moz-appearance: none;
+    appearance: none;
+  }
+  
+  /* Ajusta el layout general para que ocupe toda la página */
+  body, #root, .max-w-7xl {
+      max-width: 100% !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      font-size: 10pt !important; /* Ajusta el tamaño de fuente para impresión */
+  }
+}

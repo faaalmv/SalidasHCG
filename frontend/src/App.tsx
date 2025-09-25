@@ -6,6 +6,7 @@ import OrderTable from './components/OrderTable';
 import ConfirmationDialog from './components/ConfirmationDialog';
 import InfoDialog from './components/InfoDialog';
 import type { Article, FormRow } from './types';
+import './print.css';
 
 function App() {
   const [articles, setArticles] = useState<Article[]>([]);
