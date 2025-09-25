@@ -3,6 +3,8 @@
 import React, { useState, useEffect } from 'react';
 import { pb } from './lib/pocketbase';
 import OrderTable from './components/OrderTable';
+import ConfirmationDialog from './components/ConfirmationDialog';
+import InfoDialog from './components/InfoDialog';
 import type { Article, FormRow } from './types';
 
 function App() {
@@ -11,6 +13,10 @@ function App() {
     { id: 1, cantidadPedida: '', cantidadSurtida: '', observaciones: '' }
   ]);
   const [nextId, setNextId] = useState(2);
+
+  // --- NUEVOS ESTADOS ---
+  const [dialogState, setDialogState] = useState({ isOpen: false, rowId: null as number | null });
+  const [infoDialog, setInfoDialog] = useState({ isOpen: false, title: '', message: '' });
 
   useEffect(() => {
     const controller = new AbortController();
@@ -52,7 +58,36 @@ function App() {
 
   const handleRemoveRow = (idToRemove: number) => {
     if (rows.length <= 1) return;
-    setRows(rows.filter(row => row.id !== idToRemove));
+    setDialogState({ isOpen: true, rowId: idToRemove }); // Abre el diálogo
+  };
+
+  // --- NUEVA FUNCIÓN ---
+  // Esta función se ejecutará cuando el usuario confirme en el diálogo
+  const confirmRemoveRow = () => {
+    if (dialogState.rowId === null) return;
+    setRows(rows.filter(row => row.id !== dialogState.rowId));
+    setDialogState({ isOpen: false, rowId: null }); // Cierra el diálogo
+  };
+
+  const handleSave = () => {
+      // Aquí iría tu lógica para enviar los datos a PocketBase o donde sea necesario.
+      // Por ahora, solo mostraremos una confirmación.
+      console.log("Datos del pedido:", rows);
+      setInfoDialog({
+          isOpen: true,
+          title: "Pedido Guardado",
+          message: "El pedido se ha procesado y guardado correctamente."
+      });
+  };
+
+  const handleReset = () => {
+      setRows([{ id: 1, cantidadPedida: '', cantidadSurtida: '', observaciones: '' }]);
+      setNextId(2);
+      setInfoDialog({
+          isOpen: true,
+          title: "Formulario Limpiado",
+          message: "Se han reiniciado todos los campos del formulario."
+      });
   };
 
   return (
@@ -92,8 +127,36 @@ function App() {
               + Agregar Fila
             </button>
         </div>
+        <div className="mt-8 flex justify-center gap-6">
+            <button
+              onClick={handleSave}
+              className="px-6 py-2 bg-green-600 text-white font-semibold rounded-lg shadow-md hover:bg-green-700"
+            >
+              Guardar y Finalizar
+            </button>
+            <button
+              onClick={handleReset}
+              className="px-6 py-2 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-600"
+            >
+              Limpiar Todo
+            </button>
+        </div>
       </main>
 
+      {/* --- AÑADE LOS DIÁLOGOS AQUÍ, ANTES DEL CIERRE DEL DIV PRINCIPAL --- */}
+      <ConfirmationDialog
+        isOpen={dialogState.isOpen}
+        title="Confirmar Eliminación"
+        message="¿Estás seguro de que quieres eliminar esta fila?"
+        onConfirm={confirmRemoveRow}
+        onCancel={() => setDialogState({ isOpen: false, rowId: null })}
+      />
+      <InfoDialog
+        isOpen={infoDialog.isOpen}
+        title={infoDialog.title}
+        message={infoDialog.message}
+        onClose={() => setInfoDialog({ isOpen: false, title: '', message: '' })}
+      />
       <footer className="grid grid-cols-4 gap-4 text-center">
         <div className="flex flex-col justify-end">
           <div className="border-t border-black h-12 mb-1"></div>
