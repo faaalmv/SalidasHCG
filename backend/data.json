@@ -1,0 +1,1586 @@
+[
+    {
+        "CODIGO":2212001001.0,
+        "DESCRIPCION":"ACEITE COMESTIBLE DE 20 LTS",
+        "PRESENTACION":"BIDON",
+        "MAXIMO FAA":177.0
+    },
+    {
+        "CODIGO":2212001002.0,
+        "DESCRIPCION":"ACEITE DE OLIVA DE 750ML",
+        "PRESENTACION":"750 ML",
+        "MAXIMO FAA":46.0
+    },
+    {
+        "CODIGO":2212001006.0,
+        "DESCRIPCION":"ATUN EN ACEITE DE 1880 GRAMOS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":298.0
+    },
+    {
+        "CODIGO":2212001007.0,
+        "DESCRIPCION":"AZUCAR BOLSA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":4788.0
+    },
+    {
+        "CODIGO":2212001009.0,
+        "DESCRIPCION":"CAFE EN GRANO  DE 500 GRAMOS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":706.0
+    },
+    {
+        "CODIGO":2212001010.0,
+        "DESCRIPCION":"CAFE SOLUBLE  DE 200 GRAMOS",
+        "PRESENTACION":"FRASCOS",
+        "MAXIMO FAA":72.0
+    },
+    {
+        "CODIGO":2212001013.0,
+        "DESCRIPCION":"CEREAL SECO PARA LACTANTES DE ARROZ 270 GRS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":50.0
+    },
+    {
+        "CODIGO":2212001014.0,
+        "DESCRIPCION":"CEREAL SECO PARA LACTANTES DE AVENA 270 GRS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":50.0
+    },
+    {
+        "CODIGO":2212001015.0,
+        "DESCRIPCION":"CEREAL INFANTIL DE AVENA Y ARROZ DE 270 GR",
+        "PRESENTACION":"270 GRS",
+        "MAXIMO FAA":68.0
+    },
+    {
+        "CODIGO":2212001016.0,
+        "DESCRIPCION":"CHILE CHIPOTLE  DE 380 GRS.",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":268.0
+    },
+    {
+        "CODIGO":2212001018.0,
+        "DESCRIPCION":"CHILE JALAPE\u00d1O EN RAJAS  DE 2800 GRS.",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":22.0
+    },
+    {
+        "CODIGO":2212001022.0,
+        "DESCRIPCION":"CONCENTRADO DE HORCHATA L\u00cdQUIDO",
+        "PRESENTACION":"GALON",
+        "MAXIMO FAA":103.0
+    },
+    {
+        "CODIGO":2212001023.0,
+        "DESCRIPCION":"CONCENTRADO DE LIMON EN POLVO 500 GRS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":58.0
+    },
+    {
+        "CODIGO":2212001026.0,
+        "DESCRIPCION":"CONSOME DE POLLO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212001027.0,
+        "DESCRIPCION":"DESINFECTANTE L\u00cdQUIDO",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":16.0
+    },
+    {
+        "CODIGO":2212001028.0,
+        "DESCRIPCION":"DURAZNO EN ALMIBAR  DE 820 GRS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":1224.0
+    },
+    {
+        "CODIGO":2212001031.0,
+        "DESCRIPCION":"FLAN DE VAINILLA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":49.0
+    },
+    {
+        "CODIGO":2212001032.0,
+        "DESCRIPCION":"GALLETA SURTIDO RICO 436 GRS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":70.0
+    },
+    {
+        "CODIGO":2212001034.0,
+        "DESCRIPCION":"GALLETA MARIA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":331.0
+    },
+    {
+        "CODIGO":2212001035.0,
+        "DESCRIPCION":"GALLETA SALADA CON 200 PAQUETES INDIVIDUALES DE 13 G C\/U CONTENIDO DE CAJA 2,600 KG",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":74.0
+    },
+    {
+        "CODIGO":2212001040.0,
+        "DESCRIPCION":"HARINA DE TRIGO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":14.0
+    },
+    {
+        "CODIGO":2212001041.0,
+        "DESCRIPCION":"HARINA PARA HOT CAKES",
+        "PRESENTACION":"800 GRS",
+        "MAXIMO FAA":237.0
+    },
+    {
+        "CODIGO":2212001044.0,
+        "DESCRIPCION":"JUGO SABOR NARANJA DE 480 ML",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":16560.0
+    },
+    {
+        "CODIGO":2212001045.0,
+        "DESCRIPCION":"LECHE EVAPORADA 360 GR.",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212001046.0,
+        "DESCRIPCION":"MAYONESA DE 3.785 KILOS",
+        "PRESENTACION":"FRASCOS",
+        "MAXIMO FAA":56.0
+    },
+    {
+        "CODIGO":2212001047.0,
+        "DESCRIPCION":"MERMELADA DE FRESA INDIVIDUAL 20GR.",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":2760.0
+    },
+    {
+        "CODIGO":2212001049.0,
+        "DESCRIPCION":"MOLE POBLANO 2800 GRS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":45.0
+    },
+    {
+        "CODIGO":2212001050.0,
+        "DESCRIPCION":"MOSTAZA DE 3.785 KG",
+        "PRESENTACION":"FRASCOS",
+        "MAXIMO FAA":4.0
+    },
+    {
+        "CODIGO":2212001051.0,
+        "DESCRIPCION":"MOSTAZA DE 430 GRS",
+        "PRESENTACION":"FRASCO",
+        "MAXIMO FAA":1.0
+    },
+    {
+        "CODIGO":2212001053.0,
+        "DESCRIPCION":"PASTA PARA SOPA CODITO CHICO  4 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":10.0
+    },
+    {
+        "CODIGO":2212001054.0,
+        "DESCRIPCION":"PASTA PARA SOPA ESPAGUETTI  4 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":84.0
+    },
+    {
+        "CODIGO":2212001055.0,
+        "DESCRIPCION":"PASTA PARA SOPA FIDEO  4 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":40.0
+    },
+    {
+        "CODIGO":2212001058.0,
+        "DESCRIPCION":"PI\u00d1A EN ALMIBAR  DE 710 GRAMOS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212001060.0,
+        "DESCRIPCION":"PURE DE TOMATE DE 2.950 KILOGRAMOS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":54.0
+    },
+    {
+        "CODIGO":2212001062.0,
+        "DESCRIPCION":"SAL EN GRANO BOLSA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":552.0
+    },
+    {
+        "CODIGO":2212001063.0,
+        "DESCRIPCION":"SAL MOLIDA BOLSA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":9.0
+    },
+    {
+        "CODIGO":2212001065.0,
+        "DESCRIPCION":"SALSA CATSUP INDIVIDUAL 9 GRS",
+        "PRESENTACION":"PIEZAINDIVIDUAL9GRS",
+        "MAXIMO FAA":336.0
+    },
+    {
+        "CODIGO":2212001066.0,
+        "DESCRIPCION":"SALSA DE SOYA",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":14.0
+    },
+    {
+        "CODIGO":2212001067.0,
+        "DESCRIPCION":"SALSA TIPO INGLESA DE 980 MILILITROS",
+        "PRESENTACION":"FRASCO",
+        "MAXIMO FAA":18.0
+    },
+    {
+        "CODIGO":2212001068.0,
+        "DESCRIPCION":"TE DE HIERBABUENA  CON 30 SOBRES",
+        "PRESENTACION":"25 PZ",
+        "MAXIMO FAA":43.0
+    },
+    {
+        "CODIGO":2212001069.0,
+        "DESCRIPCION":"TE DE LIM\u00d3N CON 25 SOBRES",
+        "PRESENTACION":"25 PZ",
+        "MAXIMO FAA":30.0
+    },
+    {
+        "CODIGO":2212001070.0,
+        "DESCRIPCION":"TE DE MANZANILLA CON 30 S0BRES",
+        "PRESENTACION":"25 PZ",
+        "MAXIMO FAA":56.0
+    },
+    {
+        "CODIGO":2212001071.0,
+        "DESCRIPCION":"VAINILLA",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":73.0
+    },
+    {
+        "CODIGO":2212001072.0,
+        "DESCRIPCION":"VINAGRE BLANCO",
+        "PRESENTACION":"GALON",
+        "MAXIMO FAA":676.0
+    },
+    {
+        "CODIGO":2212001075.0,
+        "DESCRIPCION":"GELATINA VARIOS SABORES ULTRAPASTEURIZADA INDIVIDUAL 125 GR",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":55200.0
+    },
+    {
+        "CODIGO":2212001085.0,
+        "DESCRIPCION":"MAYONESA INDIVIDUAL 12 GR",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":96.0
+    },
+    {
+        "CODIGO":2212001086.0,
+        "DESCRIPCION":"CONCENTRADO DE TAMARINDO",
+        "PRESENTACION":"GALON",
+        "MAXIMO FAA":63.0
+    },
+    {
+        "CODIGO":2212001087.0,
+        "DESCRIPCION":"HOJUELAS DE MAIZ CON AZUCAR  15 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":22.0
+    },
+    {
+        "CODIGO":2212001089.0,
+        "DESCRIPCION":"CHONGOS ZAMORANOS DE 450 GRS",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":18.0
+    },
+    {
+        "CODIGO":2212001100.0,
+        "DESCRIPCION":"PASTA PARA SOPA ESTRELLITA CAJA 4 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":105.0
+    },
+    {
+        "CODIGO":2212001101.0,
+        "DESCRIPCION":"PASTA PARA SOPA MACARRON 4 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":24.0
+    },
+    {
+        "CODIGO":2212001103.0,
+        "DESCRIPCION":"PASTA PARA SOPA TORNILLO  4 KILOS",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":5.0
+    },
+    {
+        "CODIGO":2212001106.0,
+        "DESCRIPCION":"ACEITE COMESTIBLE",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212001109.0,
+        "DESCRIPCION":"ATE DE MEMBRILLO BARRA",
+        "PRESENTACION":"BARRA1KG",
+        "MAXIMO FAA":147.0
+    },
+    {
+        "CODIGO":2212001111.0,
+        "DESCRIPCION":"AT\u00daN EN AGUA DE 155 GR",
+        "PRESENTACION":"130 GRS",
+        "MAXIMO FAA":13.0
+    },
+    {
+        "CODIGO":2212001114.0,
+        "DESCRIPCION":"CHOCOLATE EN TABLILLA CON 6 DE 90 GR C\/U.",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":44.0
+    },
+    {
+        "CODIGO":2212001122.0,
+        "DESCRIPCION":"LECHE CONDENSADA 387 GR.",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212001123.0,
+        "DESCRIPCION":"LECHE EVAPORADA TETRAPAK",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":265.0
+    },
+    {
+        "CODIGO":2212001125.0,
+        "DESCRIPCION":"MIEL MAPLE INDIVIDUAL 30 GR",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":2760.0
+    },
+    {
+        "CODIGO":2212001126.0,
+        "DESCRIPCION":"MIEL DE ABEJA INDIVIDUAL PIEZA 20 GR",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":60.0
+    },
+    {
+        "CODIGO":2212001130.0,
+        "DESCRIPCION":"PURE DE TOMATE CONDIMENTADO  TETRAPAK",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":46.0
+    },
+    {
+        "CODIGO":2212001133.0,
+        "DESCRIPCION":"VINAGRE DE MANZANA DE 720 ML",
+        "PRESENTACION":"750 ML",
+        "MAXIMO FAA":8.0
+    },
+    {
+        "CODIGO":2212001144.0,
+        "DESCRIPCION":"ACEITE COMESTIBLE PURO DE CANOLA 946 ML",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":34.0
+    },
+    {
+        "CODIGO":2212001159.0,
+        "DESCRIPCION":"SAL DE AJO 125 GR",
+        "PRESENTACION":"FCO",
+        "MAXIMO FAA":18.0
+    },
+    {
+        "CODIGO":2212001162.0,
+        "DESCRIPCION":"MERMELADA DE CHABACANO 470 GR.",
+        "PRESENTACION":"FCO",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212001172.0,
+        "DESCRIPCION":"AVENA BOTE DE 400 GR",
+        "PRESENTACION":"BOTE",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212001173.0,
+        "DESCRIPCION":"CANELA MOLIDA 63 GR",
+        "PRESENTACION":"FRASCOS",
+        "MAXIMO FAA":12.0
+    },
+    {
+        "CODIGO":2212001174.0,
+        "DESCRIPCION":"OREGANO SECO 195 GR",
+        "PRESENTACION":"FRASCO",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212001181.0,
+        "DESCRIPCION":"LECHE DE SOYA EN POLVO LIBRE DE AZUCARES Y ENDULZADA CON MALTODDEXITRINAS CON MINIMO 26 G DE PROTEINA EN LECHE DESLACTOSADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":150.0
+    },
+    {
+        "CODIGO":2212001186.0,
+        "DESCRIPCION":"ATUN EN AGUA 1880GR",
+        "PRESENTACION":"LATA",
+        "MAXIMO FAA":463.0
+    },
+    {
+        "CODIGO":2212001196.0,
+        "DESCRIPCION":"LECHE DESLACTOSA LIGHT LITRO",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":1472.0
+    },
+    {
+        "CODIGO":2212002001.0,
+        "DESCRIPCION":"FAJITAS DE CERDO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":306.0
+    },
+    {
+        "CODIGO":2212002003.0,
+        "DESCRIPCION":"BISTECK DE RES AGUAYON PARA BROCHETA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1387.0
+    },
+    {
+        "CODIGO":2212002004.0,
+        "DESCRIPCION":"CARNAZA DE CERDO EN TROZO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":175.0
+    },
+    {
+        "CODIGO":2212002005.0,
+        "DESCRIPCION":"CARNE DE RES PARA COCIDO CON PLATANO Y POCO HUESO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":736.0
+    },
+    {
+        "CODIGO":2212002006.0,
+        "DESCRIPCION":"CARNE DE RES PARA DESHEBRAR CORTE DE KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":14.0
+    },
+    {
+        "CODIGO":2212002007.0,
+        "DESCRIPCION":"CARNE MOLIDA DE CERDO POCA GRASA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":552.0
+    },
+    {
+        "CODIGO":2212002008.0,
+        "DESCRIPCION":"CARNE MOLIDA DE RES POCA GRASA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":920.0
+    },
+    {
+        "CODIGO":2212002009.0,
+        "DESCRIPCION":"CHAMORRO DE CERDO PARTIDO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":252.0
+    },
+    {
+        "CODIGO":2212002010.0,
+        "DESCRIPCION":"CHULETA DE CERDO AHUMADA CORTE DE 120GR C\/U",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":12.0
+    },
+    {
+        "CODIGO":2212002011.0,
+        "DESCRIPCION":"COSTILLA DE CERDO EN TROCITO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":556.0
+    },
+    {
+        "CODIGO":2212002012.0,
+        "DESCRIPCION":"CUETE DE RES EN TROCITO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":890.0
+    },
+    {
+        "CODIGO":2212002013.0,
+        "DESCRIPCION":"FAJITAS DE RES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2737.0
+    },
+    {
+        "CODIGO":2212002014.0,
+        "DESCRIPCION":"LOMO DE CERDO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":8.0
+    },
+    {
+        "CODIGO":2212002015.0,
+        "DESCRIPCION":"MENUDO DE RES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212002018.0,
+        "DESCRIPCION":"PIERNA DE CERDO EN TROZO CORTE DE 3 KILOS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212002019.0,
+        "DESCRIPCION":"BISTECK DE RES BOLA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":26.0
+    },
+    {
+        "CODIGO":2212002020.0,
+        "DESCRIPCION":"COSTILLA DE RES CARGADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":592.0
+    },
+    {
+        "CODIGO":2212002021.0,
+        "DESCRIPCION":"FALDA DE RES EN TROZO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":544.0
+    },
+    {
+        "CODIGO":2212002022.0,
+        "DESCRIPCION":"PIERNA DE CERDO EN TROCITO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":360.0
+    },
+    {
+        "CODIGO":2212002023.0,
+        "DESCRIPCION":"CARNITAS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":110.0
+    },
+    {
+        "CODIGO":2212002024.0,
+        "DESCRIPCION":"CHAMBERETE DE RES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":643.0
+    },
+    {
+        "CODIGO":2212002025.0,
+        "DESCRIPCION":"CABEZA DE CERDO PARTIDA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":84.0
+    },
+    {
+        "CODIGO":2212002026.0,
+        "DESCRIPCION":"PATA DE CERDO PARTIDA EN CUARTOS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":67.0
+    },
+    {
+        "CODIGO":2212002027.0,
+        "DESCRIPCION":"CHICHARRON DE CERDO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":139.0
+    },
+    {
+        "CODIGO":2212002028.0,
+        "DESCRIPCION":"ESPALDA DE CERDO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":57.0
+    },
+    {
+        "CODIGO":2212002030.0,
+        "DESCRIPCION":"BISTECK DE CERDO CORTE DE 150GR C\/U",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212002033.0,
+        "DESCRIPCION":"CARNE DE RES PARA SU JUGO REBANADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":8666.0
+    },
+    {
+        "CODIGO":2212002035.0,
+        "DESCRIPCION":"ESPINAZO DE CERDO DE LA PARTE DEL CENTRO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":368.0
+    },
+    {
+        "CODIGO":2212002036.0,
+        "DESCRIPCION":"HUESO BLANCO DE CERDO PARA POZOLE",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":32.0
+    },
+    {
+        "CODIGO":2212002037.0,
+        "DESCRIPCION":"BISTECK DE RES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212002039.0,
+        "DESCRIPCION":"LENGUA RES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":46.0
+    },
+    {
+        "CODIGO":2212002040.0,
+        "DESCRIPCION":"PULPA DE CERDO EN TROCITO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":818.0
+    },
+    {
+        "CODIGO":2212002041.0,
+        "DESCRIPCION":"PULPA DE RES EN TROCITO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":552.0
+    },
+    {
+        "CODIGO":2212002042.0,
+        "DESCRIPCION":"MILANESA DE RES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":14.0
+    },
+    {
+        "CODIGO":2212002043.0,
+        "DESCRIPCION":"BISTEC DE RES PARTIDO PARA BROCHETA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212002044.0,
+        "DESCRIPCION":"TERNERA CON HUESO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":3.0
+    },
+    {
+        "CODIGO":2212003002.0,
+        "DESCRIPCION":"CHORIZO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":20.0
+    },
+    {
+        "CODIGO":2212003003.0,
+        "DESCRIPCION":"JAMON DE PECHUGA DE PAVO REBANADA DE 30 G",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1028.0
+    },
+    {
+        "CODIGO":2212003008.0,
+        "DESCRIPCION":"TOCINO REBANADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":140.0
+    },
+    {
+        "CODIGO":2212003012.0,
+        "DESCRIPCION":"SALCHICHA DE PAVO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212003017.0,
+        "DESCRIPCION":"JAMON DE PIERNA YORK",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":16.0
+    },
+    {
+        "CODIGO":2212004003.0,
+        "DESCRIPCION":"CIRUELA AMARILLA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":30.0
+    },
+    {
+        "CODIGO":2212004004.0,
+        "DESCRIPCION":"DURAZNO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":552.0
+    },
+    {
+        "CODIGO":2212004007.0,
+        "DESCRIPCION":"JICAMA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":67.0
+    },
+    {
+        "CODIGO":2212004008.0,
+        "DESCRIPCION":"LIMA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212004011.0,
+        "DESCRIPCION":"MANZANA DELICIA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":9612.0
+    },
+    {
+        "CODIGO":2212004012.0,
+        "DESCRIPCION":"MANZANA GOLDEN",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":7000.0
+    },
+    {
+        "CODIGO":2212004013.0,
+        "DESCRIPCION":"MELON CANTALUP",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":4232.0
+    },
+    {
+        "CODIGO":2212004014.0,
+        "DESCRIPCION":"NARANJA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":3618.0
+    },
+    {
+        "CODIGO":2212004015.0,
+        "DESCRIPCION":"PAPAYA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":8000.0
+    },
+    {
+        "CODIGO":2212004017.0,
+        "DESCRIPCION":"PERA MANTEQUILLA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":11800.0
+    },
+    {
+        "CODIGO":2212004018.0,
+        "DESCRIPCION":"PI\u00d1A",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2851.0
+    },
+    {
+        "CODIGO":2212004019.0,
+        "DESCRIPCION":"PLATANO MACHO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":736.0
+    },
+    {
+        "CODIGO":2212004021.0,
+        "DESCRIPCION":"SANDIA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1288.0
+    },
+    {
+        "CODIGO":2212004023.0,
+        "DESCRIPCION":"TORONJA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":157.0
+    },
+    {
+        "CODIGO":2212004028.0,
+        "DESCRIPCION":"PLATANO DOMINICO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":178.0
+    },
+    {
+        "CODIGO":2212004029.0,
+        "DESCRIPCION":"UVA GLOBO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":368.0
+    },
+    {
+        "CODIGO":2212004030.0,
+        "DESCRIPCION":"UVA VERDE",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":417.0
+    },
+    {
+        "CODIGO":2212004031.0,
+        "DESCRIPCION":"MANGO BARRANQUE\u00d1O",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":36.0
+    },
+    {
+        "CODIGO":2212004032.0,
+        "DESCRIPCION":"CIRUELA PASA SIN HUESO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212004045.0,
+        "DESCRIPCION":"MASA DE MAIZ",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":26.0
+    },
+    {
+        "CODIGO":2212005007.0,
+        "DESCRIPCION":"LECHE PASTEURIZADA DESCREMADA  TETRAPAK",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":45.0
+    },
+    {
+        "CODIGO":2212005011.0,
+        "DESCRIPCION":"QUESO PARMESANO PASTEURIZADO 453 GR",
+        "PRESENTACION":"FCO",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212005014.0,
+        "DESCRIPCION":"CREMA PASTEURIZADA ENVASADA",
+        "PRESENTACION":"NAVARRO",
+        "MAXIMO FAA":1240.0
+    },
+    {
+        "CODIGO":2212005015.0,
+        "DESCRIPCION":"LECHE PASTEURIZADA FRESCA DE 900ML",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212005016.0,
+        "DESCRIPCION":"MANTEQUILLA CON SAL EN BARRA KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":156.0
+    },
+    {
+        "CODIGO":2212005017.0,
+        "DESCRIPCION":"QUESO ADOBERA pasteurizado",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":920.0
+    },
+    {
+        "CODIGO":2212005019.0,
+        "DESCRIPCION":"QUESO ASADERO EN BARRA pasteurizado",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":20.0
+    },
+    {
+        "CODIGO":2212005020.0,
+        "DESCRIPCION":"QUESO COTIJA pasteurizado",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":3.0
+    },
+    {
+        "CODIGO":2212005021.0,
+        "DESCRIPCION":"QUESO MANCHEGO pasteurizado",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":146.0
+    },
+    {
+        "CODIGO":2212005022.0,
+        "DESCRIPCION":"QUESO PANELA pasteurizado CON SAL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":345.0
+    },
+    {
+        "CODIGO":2212005023.0,
+        "DESCRIPCION":"YOGURTH DE DURAZNO",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":1840.0
+    },
+    {
+        "CODIGO":2212005024.0,
+        "DESCRIPCION":"YOGURTH DE FRESA",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":2208.0
+    },
+    {
+        "CODIGO":2212005026.0,
+        "DESCRIPCION":"QUESO PANELA pasteurizado SIN SAL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":309.0
+    },
+    {
+        "CODIGO":2212005028.0,
+        "DESCRIPCION":"YOGURTH NATURAL SIN AZUCAR 900gr",
+        "PRESENTACION":"BOTE",
+        "MAXIMO FAA":552.0
+    },
+    {
+        "CODIGO":2212005041.0,
+        "DESCRIPCION":"QUESO COTTAGE PASTERUTIZADO.",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":24.0
+    },
+    {
+        "CODIGO":2212005042.0,
+        "DESCRIPCION":"LECHE FRESCA PASTEURIZADA LIGHT",
+        "PRESENTACION":"LITRO",
+        "MAXIMO FAA":22000.0
+    },
+    {
+        "CODIGO":2212006001.0,
+        "DESCRIPCION":"PECHUGA DE POLLO EN FAJITAS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":10000.0
+    },
+    {
+        "CODIGO":2212006003.0,
+        "DESCRIPCION":"POLLO PARTIDO EN 8 PIGMENTADO SIN PIEL PESCUEZO Y MOLLEJAS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1656.0
+    },
+    {
+        "CODIGO":2212006004.0,
+        "DESCRIPCION":"HUEVO KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":7048.0
+    },
+    {
+        "CODIGO":2212006005.0,
+        "DESCRIPCION":"PECHUGA DE POLLO SIN HUESO PARTIDA PARA BROCHETA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":920.0
+    },
+    {
+        "CODIGO":2212006006.0,
+        "DESCRIPCION":"PECHUGA DE POLLO CON HUESO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1164.0
+    },
+    {
+        "CODIGO":2212006009.0,
+        "DESCRIPCION":"PECHUGA DE POLLO EN FILETE DE 150 GRS. C\/U",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":867.0
+    },
+    {
+        "CODIGO":2212006012.0,
+        "DESCRIPCION":"POLLO ROSTIZADO (1,200 KG C\/U)",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":10.0
+    },
+    {
+        "CODIGO":2212006013.0,
+        "DESCRIPCION":"PECHUGA DE POLLO SIN HUESO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":735.0
+    },
+    {
+        "CODIGO":2212007001.0,
+        "DESCRIPCION":"CAMARON FRESCO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":272.0
+    },
+    {
+        "CODIGO":2212007003.0,
+        "DESCRIPCION":"CAZON TIERNO S\/ ESPINAS PIEZA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":361.0
+    },
+    {
+        "CODIGO":2212007004.0,
+        "DESCRIPCION":"FILETE DE PESCADO HUACHINANGO CORTE DE 150GR C\/U",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":6.0
+    },
+    {
+        "CODIGO":2212007007.0,
+        "DESCRIPCION":"FILETE DE PESCADO CAZON EN CUBITO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212007008.0,
+        "DESCRIPCION":"HUACHINANGO TROZO S\/ESPINAS SIN CABEZA, ESCAMAS BRILLANTES Y PAGADAS A LA PIEL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":552.0
+    },
+    {
+        "CODIGO":2212007009.0,
+        "DESCRIPCION":"PULPO LIMPIO  FRESCO SIN CONGELAR",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":122.0
+    },
+    {
+        "CODIGO":2212007010.0,
+        "DESCRIPCION":"TROZO DE PESCADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":360.0
+    },
+    {
+        "CODIGO":2212008002.0,
+        "DESCRIPCION":"TOSTADA DESHIDRATADA CON 25 PIEZAS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":736.0
+    },
+    {
+        "CODIGO":2212008007.0,
+        "DESCRIPCION":"BOLILLO CON SAL DE 160 GRAMOS",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":42.0
+    },
+    {
+        "CODIGO":2212008008.0,
+        "DESCRIPCION":"BOLILLO MINI SIN SAL DE 80 GRAMOS",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":3680.0
+    },
+    {
+        "CODIGO":2212008010.0,
+        "DESCRIPCION":"PAN BLANCO DE CAJA GRANDE",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":3608.0
+    },
+    {
+        "CODIGO":2212008011.0,
+        "DESCRIPCION":"PAN DULCE DE 100 GRAMOS",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":36800.0
+    },
+    {
+        "CODIGO":2212008012.0,
+        "DESCRIPCION":"PAN MOLIDO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":34.0
+    },
+    {
+        "CODIGO":2212008013.0,
+        "DESCRIPCION":"PAN PARA HAMBURGUESA CON 8 PIEZAS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212008014.0,
+        "DESCRIPCION":"PAN PARA HOT-DOG CON 8 PIEZAS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":7.0
+    },
+    {
+        "CODIGO":2212008015.0,
+        "DESCRIPCION":"PAN TOSTADO CON 14 PIEZAS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":193.0
+    },
+    {
+        "CODIGO":2212008017.0,
+        "DESCRIPCION":"TACO AL VAPOR",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":5520.0
+    },
+    {
+        "CODIGO":2212008018.0,
+        "DESCRIPCION":"TELERA SENCILLA",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":48.0
+    },
+    {
+        "CODIGO":2212008020.0,
+        "DESCRIPCION":"TORTILLA DE HARINA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":141.0
+    },
+    {
+        "CODIGO":2212008021.0,
+        "DESCRIPCION":"TORTILLA DE MAIZ PAQUETE CON 3 PIEZAS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":4826.0
+    },
+    {
+        "CODIGO":2212008022.0,
+        "DESCRIPCION":"TOSTADA DE MAIZ",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":44160.0
+    },
+    {
+        "CODIGO":2212008023.0,
+        "DESCRIPCION":"TOTOPO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":880.0
+    },
+    {
+        "CODIGO":2212008024.0,
+        "DESCRIPCION":"PAN INTEGRAL DE CAJA GRANDE",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":22.0
+    },
+    {
+        "CODIGO":2212008028.0,
+        "DESCRIPCION":"BOLILLO FLEIMAN DE 150GR C\/U",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":2392.0
+    },
+    {
+        "CODIGO":2212008029.0,
+        "DESCRIPCION":"CUERNITO (DAN\u00c9S DE 100 GRAMOS)",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212008033.0,
+        "DESCRIPCION":"TAMALES SURTIDOS",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":54.0
+    },
+    {
+        "CODIGO":2212008035.0,
+        "DESCRIPCION":"TORTILLA DE MAIZ PAQUETE CON 2 PIEZAS",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":21896.0
+    },
+    {
+        "CODIGO":2212008037.0,
+        "DESCRIPCION":"BOLILLO MINI CON SAL DE 80 GRAMOS",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":18400.0
+    },
+    {
+        "CODIGO":2212008047.0,
+        "DESCRIPCION":"TE DE MANZANA-CANELA CON 30 SOBRES",
+        "PRESENTACION":"CAJA",
+        "MAXIMO FAA":6.0
+    },
+    {
+        "CODIGO":2212008048.0,
+        "DESCRIPCION":"SUSTITUTO DE CREMA PARA CAFE PASTEURIZADO BOTE DE 400 GR",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":44.0
+    },
+    {
+        "CODIGO":2212009002.0,
+        "DESCRIPCION":"CHILE GUAJILLO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212009005.0,
+        "DESCRIPCION":"AJO CABEZA GRANDE",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":151.0
+    },
+    {
+        "CODIGO":2212009008.0,
+        "DESCRIPCION":"ARROZ BOLSA CON FECHA DE CADUCIDAD",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":3248.0
+    },
+    {
+        "CODIGO":2212009009.0,
+        "DESCRIPCION":"CACAHUATE LIMPIO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":4.0
+    },
+    {
+        "CODIGO":2212009010.0,
+        "DESCRIPCION":"CANELA EN RAMA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":194.0
+    },
+    {
+        "CODIGO":2212009012.0,
+        "DESCRIPCION":"CHILE CHILACATE A GRANEL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":18.0
+    },
+    {
+        "CODIGO":2212009014.0,
+        "DESCRIPCION":"CHILE DE ARBOL A GRANEL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":27.0
+    },
+    {
+        "CODIGO":2212009015.0,
+        "DESCRIPCION":"CHILE MIRASOL A GRANEL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":18.0
+    },
+    {
+        "CODIGO":2212009018.0,
+        "DESCRIPCION":"CLAVO A GRANEL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":3.0
+    },
+    {
+        "CODIGO":2212009021.0,
+        "DESCRIPCION":"FRIJOL PERUANO EN BOLSA CON FECHA DE CADUCIDAD",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":5823.0
+    },
+    {
+        "CODIGO":2212009022.0,
+        "DESCRIPCION":"GARBANZO EN BOLSA CON FECHA DE CADUCIDAD EN BOLSA DE A KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":163.0
+    },
+    {
+        "CODIGO":2212009023.0,
+        "DESCRIPCION":"GRANOLA EN PAQUETE CON FECHA DE CADUCIDAD",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":141.0
+    },
+    {
+        "CODIGO":2212009024.0,
+        "DESCRIPCION":"HABA EN BOLSA CON FECHA DE CADUCIDAD",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":10.0
+    },
+    {
+        "CODIGO":2212009025.0,
+        "DESCRIPCION":"HOJA DE LAUREL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212009026.0,
+        "DESCRIPCION":"JAMAICA BOLSA DE A KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":139.0
+    },
+    {
+        "CODIGO":2212009028.0,
+        "DESCRIPCION":"LENTEJA GRANDE EN BOLSA CON FECHA DE CADUCIDAD EM BOLSA DE A KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212009029.0,
+        "DESCRIPCION":"MAIZ PARA POZOLE EN BOLSA DE A KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":9.0
+    },
+    {
+        "CODIGO":2212009030.0,
+        "DESCRIPCION":"MEJORANA A GRANEL",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1.0
+    },
+    {
+        "CODIGO":2212009031.0,
+        "DESCRIPCION":"NUEZ EN MITAD PELADA BOLSA CON FECHA DE CADUCIDAD",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":92.0
+    },
+    {
+        "CODIGO":2212009032.0,
+        "DESCRIPCION":"PASAS EN BOLSA CON FECHA DE CADUCIDAD",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":10.0
+    },
+    {
+        "CODIGO":2212009033.0,
+        "DESCRIPCION":"PILONCILLO EN BOLSAS DE A KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":344.0
+    },
+    {
+        "CODIGO":2212009034.0,
+        "DESCRIPCION":"TAMARINDO BOLSA DE A KILO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212009036.0,
+        "DESCRIPCION":"ALMENDRA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":84.0
+    },
+    {
+        "CODIGO":2212009041.0,
+        "DESCRIPCION":"JENGIBRE SECO 250 GR",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":9.0
+    },
+    {
+        "CODIGO":2212010004.0,
+        "DESCRIPCION":"CHAMPI\u00d1ONES",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":368.0
+    },
+    {
+        "CODIGO":2212010005.0,
+        "DESCRIPCION":"TE DE LIMON",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":244.0
+    },
+    {
+        "CODIGO":2212010007.0,
+        "DESCRIPCION":"ACELGA",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212010008.0,
+        "DESCRIPCION":"AGUACATE",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1060.0
+    },
+    {
+        "CODIGO":2212010009.0,
+        "DESCRIPCION":"APIO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":21.0
+    },
+    {
+        "CODIGO":2212010010.0,
+        "DESCRIPCION":"BETABEL",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":154.0
+    },
+    {
+        "CODIGO":2212010011.0,
+        "DESCRIPCION":"BROCOLI",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":368.0
+    },
+    {
+        "CODIGO":2212010012.0,
+        "DESCRIPCION":"CALABACITA ITALIANA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":12800.0
+    },
+    {
+        "CODIGO":2212010013.0,
+        "DESCRIPCION":"CALABAZA DURA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212010014.0,
+        "DESCRIPCION":"CAMOTE AMARILLO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212010015.0,
+        "DESCRIPCION":"CEBOLLA BLANCA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":5226.0
+    },
+    {
+        "CODIGO":2212010017.0,
+        "DESCRIPCION":"CEBOLLA MORADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":90.0
+    },
+    {
+        "CODIGO":2212010019.0,
+        "DESCRIPCION":"CHAYOTE SQUASH PIEZA DE 400GR C\/U",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":17178.0
+    },
+    {
+        "CODIGO":2212010021.0,
+        "DESCRIPCION":"CHILE PIMIENTO MORRON ROJO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":111.0
+    },
+    {
+        "CODIGO":2212010022.0,
+        "DESCRIPCION":"CHILE PIMIENTO MORRON VERDE",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":115.0
+    },
+    {
+        "CODIGO":2212010023.0,
+        "DESCRIPCION":"CHILE POBLANO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":112.0
+    },
+    {
+        "CODIGO":2212010024.0,
+        "DESCRIPCION":"CHILE SERRANO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":118.0
+    },
+    {
+        "CODIGO":2212010025.0,
+        "DESCRIPCION":"CILANTRO FRESCO",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":153.0
+    },
+    {
+        "CODIGO":2212010026.0,
+        "DESCRIPCION":"COL BLANCA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":18.0
+    },
+    {
+        "CODIGO":2212010029.0,
+        "DESCRIPCION":"EJOTE",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":736.0
+    },
+    {
+        "CODIGO":2212010030.0,
+        "DESCRIPCION":"ELOTE",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":180.0
+    },
+    {
+        "CODIGO":2212010033.0,
+        "DESCRIPCION":"HIERBABUENA FRESCA",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":120.0
+    },
+    {
+        "CODIGO":2212010034.0,
+        "DESCRIPCION":"JITOMATE BOLA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1288.0
+    },
+    {
+        "CODIGO":2212010035.0,
+        "DESCRIPCION":"JITOMATE SALADET",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":11426.0
+    },
+    {
+        "CODIGO":2212010036.0,
+        "DESCRIPCION":"LECHUGA BOLA EMPLAYADA",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":286.0
+    },
+    {
+        "CODIGO":2212010037.0,
+        "DESCRIPCION":"LIMON SIN SEMILLA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":884.0
+    },
+    {
+        "CODIGO":2212010038.0,
+        "DESCRIPCION":"NOPALES BLANCO PICADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":736.0
+    },
+    {
+        "CODIGO":2212010040.0,
+        "DESCRIPCION":"PAPA BLANCA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":5414.0
+    },
+    {
+        "CODIGO":2212010041.0,
+        "DESCRIPCION":"PAPA CAMBRAY",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212010042.0,
+        "DESCRIPCION":"PEPINO AMERICANO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":134.0
+    },
+    {
+        "CODIGO":2212010043.0,
+        "DESCRIPCION":"PEREJIL FRESCO",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212010046.0,
+        "DESCRIPCION":"TE DE MANZANILLA",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":87.0
+    },
+    {
+        "CODIGO":2212010047.0,
+        "DESCRIPCION":"TOMATE VERDE SIN HOJA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":4600.0
+    },
+    {
+        "CODIGO":2212010049.0,
+        "DESCRIPCION":"ZANAHORIA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":5520.0
+    },
+    {
+        "CODIGO":2212010053.0,
+        "DESCRIPCION":"CEBOLLA BLANCA CON RABO",
+        "PRESENTACION":"MANOJO",
+        "MAXIMO FAA":9.0
+    },
+    {
+        "CODIGO":2212010054.0,
+        "DESCRIPCION":"CHILE HABANERO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":1.0
+    },
+    {
+        "CODIGO":2212010056.0,
+        "DESCRIPCION":"LECHUGA SANGR\u00cdA",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":3.0
+    },
+    {
+        "CODIGO":2212010057.0,
+        "DESCRIPCION":"LECHUGA ESCAROLA",
+        "PRESENTACION":"PIEZA",
+        "MAXIMO FAA":4.0
+    },
+    {
+        "CODIGO":2212010058.0,
+        "DESCRIPCION":"LIMON AGRIO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":93.0
+    },
+    {
+        "CODIGO":2212010060.0,
+        "DESCRIPCION":"JENGIBRE FRESCO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":2.0
+    },
+    {
+        "CODIGO":2212011002.0,
+        "DESCRIPCION":"CHICHARO CONGELADO PAQUETE DE 2 KILOS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":27.0
+    },
+    {
+        "CODIGO":2212011003.0,
+        "DESCRIPCION":"COLIFLOR CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":756.0
+    },
+    {
+        "CODIGO":2212011004.0,
+        "DESCRIPCION":"EJOTE CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":424.0
+    },
+    {
+        "CODIGO":2212011006.0,
+        "DESCRIPCION":"MAIZ EN GRANO CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212011007.0,
+        "DESCRIPCION":"MEZCLA BAJIO  CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":10.0
+    },
+    {
+        "CODIGO":2212011008.0,
+        "DESCRIPCION":"MEZCLA CALIFORNIA CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":337.0
+    },
+    {
+        "CODIGO":2212011009.0,
+        "DESCRIPCION":"MEZCLA CAMPESINA CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":208.0
+    },
+    {
+        "CODIGO":2212011011.0,
+        "DESCRIPCION":"ZANAHORIA EN RODAJAS CONGELADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":171.0
+    },
+    {
+        "CODIGO":2212011012.0,
+        "DESCRIPCION":"BROCOLI CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":237.0
+    },
+    {
+        "CODIGO":2212011013.0,
+        "DESCRIPCION":"MANGO CONGELADO EN TROZO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212011014.0,
+        "DESCRIPCION":"FRESA CONGELADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":184.0
+    },
+    {
+        "CODIGO":2212011016.0,
+        "DESCRIPCION":"GRANO DE ELOTE CONGELADO",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":151.0
+    },
+    {
+        "CODIGO":2212011018.0,
+        "DESCRIPCION":"FRAMBUEZA CONGELADA",
+        "PRESENTACION":"KG",
+        "MAXIMO FAA":14.0
+    },
+    {
+        "CODIGO":2212011026.0,
+        "DESCRIPCION":"CHICHARO CON ZANAHORIA CONGELADO PAQUETE DE 2 KILOS",
+        "PRESENTACION":"PAQUETE",
+        "MAXIMO FAA":266.0
+    }
+]

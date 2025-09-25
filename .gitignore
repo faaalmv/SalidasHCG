@@ -1,0 +1,14 @@
+# Dependencias del Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Dependencias del Backend
+backend/node_modules/
+
+# Archivos de la base de datos de PocketBase
+backend/pb_data/
+
+# Archivos de sistema y logs
+.DS_Store
+npm-debug.log*
+
