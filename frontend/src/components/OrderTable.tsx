@@ -1,7 +1,7 @@
 // src/components/OrderTable.tsx
 
 import React, { useCallback } from 'react';
-import type { Article, FormRow } from '../App';
+import type { Article, FormRow } from '../types';
 import ArticleCombobox from './ArticleCombobox';
 import QuantityInput from './QuantityInput';
 

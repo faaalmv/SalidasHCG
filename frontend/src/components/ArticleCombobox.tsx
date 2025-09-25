@@ -1,6 +1,6 @@
 // src/components/ArticleCombobox.tsx
 import React, { useState, useEffect, useRef } from 'react';
-import type { Article } from '../App'; // Importamos el tipo desde App.tsx
+import type { Article } from '../types';
 
 interface ArticleComboboxProps {
   articles: Article[];

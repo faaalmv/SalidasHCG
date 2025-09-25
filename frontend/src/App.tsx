@@ -3,22 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { pb } from './lib/pocketbase';
 import OrderTable from './components/OrderTable';
-
-export interface Article {
-  id: string;
-  codigo: string;
-  descripcion: string;
-  presentacion: string;
-  cantidadMaxima: number;
-}
-
-export interface FormRow {
-  id: number;
-  articulo?: Article;
-  cantidadPedida: string;
-  cantidadSurtida: string;
-  observaciones: string;
-}
+import type { Article, FormRow } from './types';
 
 function App() {
   const [articles, setArticles] = useState<Article[]>([]);
